@@ -147,7 +147,7 @@ LB,Bobby Dick,25,2013,96,78,57,68,56,63,0.5,1
 LB,Charles Kevin,31,2007,75,63,72,61,63,62,0.5,1
 LB,Javan Rufus,31,2007,52,66,104,65,55,57,0.5,1
 END_PLAYERS
-Northern Bisons,NOR
+Northern Bisons,NRN
 QB,Tristram Sanders,33,2004,98,84,51,110,90,78,21.3,4
 QB,Damon Theo,29,2009,54,77,90,60,64,67,3.5,1
 RB,Rosendo Hartwin,27,2010,92,55,65,79,67,89,5.0,3
