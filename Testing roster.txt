@@ -837,7 +837,6 @@ LB,Omari Cordell,25,2013,55,72,52,66,59,64,0.5,1
 LB,Kendrick Jarvis,26,2012,69,74,68,61,67,63,0.5,1
 LB,Shawnte Tim,25,2013,73,63,78,55,56,62,0.5,1
 END_PLAYERS
-DET Mustangs,DET
 Calgary Stampeders,CAL
 QB,Bolevi Mitchell,27,2012,73,67,65,85,82,84,9.0,3
 QB,Tyler Rodgers,25,2013,83,62,85,68,74,66,5.7,1
